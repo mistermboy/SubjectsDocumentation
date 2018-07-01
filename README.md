@@ -1,4 +1,4 @@
-# SubjectsDocumentation
+# SubjectsDocumentation :pencil2: :books:
 This repository contains the documentation of some of the subjects seen in Uniovi.
 
 ## Contribute :sunglasses:	
